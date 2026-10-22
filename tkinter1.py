@@ -27,3 +27,6 @@ mapel = [
     "Geografi"
 ]
 
+# Membuat input nilai
+input_nilai = []
+
