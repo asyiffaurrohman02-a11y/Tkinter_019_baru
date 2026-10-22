@@ -13,5 +13,17 @@ judul = tk.Label(
 )
 judul.pack(pady=15)
 
-
+# Daftar mata pelajaran
+mapel = [
+    "Matematika",
+    "Bahasa Indonesia",
+    "Bahasa Inggris",
+    "Fisika",
+    "Bahasa arab",
+    "Biologi",
+    "Informatika",
+    "Sejarah",
+    "Sosiologi",
+    "Geografi"
+]
 
