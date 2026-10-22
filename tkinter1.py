@@ -30,3 +30,8 @@ mapel = [
 # Membuat input nilai
 input_nilai = []
 
+for pelajaran in mapel:
+    
+
+
+
