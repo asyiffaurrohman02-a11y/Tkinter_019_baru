@@ -46,6 +46,14 @@ for pelajaran in mapel:
 def hasil_prediksi():
     hasil.config(text="Hasil Prediksi: Teknologi Informasi")
 
+# Tombol prediksi
+tombol = tk.Button(
+    root,
+    text="Hasil Prediksi",
+    command=hasil_prediksi
+)
+tombol.pack(pady=15)
+
 
 
 
